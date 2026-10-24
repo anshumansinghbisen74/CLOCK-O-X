@@ -1,0 +1,6 @@
+{
+  "name": "Sentinel AI",
+  "description": "AI-powered personal cybersecurity assistant for phishing detection, suspicious URL analysis, and real-time security guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
